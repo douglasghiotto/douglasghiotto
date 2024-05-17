@@ -1,4 +1,7 @@
-### Hi there 👋
+### **Douglas Ghiotto**
+### 3 ano B - Tecnologia
+![](https://github.com/douglasghiotto/douglasghiotto/assets/170113017/aa826082-bacf-406e-ae5d-f5fdb3999f53)
+
 
 <!--
 **douglasghiotto/douglasghiotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
